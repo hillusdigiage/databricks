@@ -1,8 +1,9 @@
 [
-    {"id": 1, "nome": "Audrey Hepburn", "nascimento": "1929-05-04", "nacionalidade": "Britânica"},
+    {"id": 1, "nome": "Audrey Hepburn", "nascimento": "1929-05-04", "nacionalidade": "Britânico"},
     {"id": 2, "nome": "Marlon Brando", "nascimento": "1924-04-03", "nacionalidade": "Americano"},
-    {"id": 3, "nome": "Marilyn Monroe", "nascimento": "1926-06-01", "nacionalidade": "Americana"},
+    {"id": 3, "nome": "Marilyn Monroe", "nascimento": "1926-06-01", "nacionalidade": "Americano"},
     {"id": 4, "nome": "James Stewart", "nascimento": "1908-05-20", "nacionalidade": "Americano"},
     {"id": 5, "nome": "Cary Grant", "nascimento": "1904-01-18", "nacionalidade": "Britânico"},
-    {"id": 100, "nome": "Greta Garbo", "nascimento": "1905-09-18", "nacionalidade": "Sueca"}
+    {"id": 6, "nome": "Clinton Eastwood Jr", "nascimento": "1930-05-31", "nacionalidade": "Americano"},
+    {"id": 100, "nome": "Greta Garbo", "nascimento": "1905-09-18", "nacionalidade": "Sueco"}
 ]

@@ -4,5 +4,6 @@
     {"id": 3, "titulo": "Citizen Kane", "ano": 1941, "genero": "Drama"},
     {"id": 4, "titulo": "The Wizard of Oz", "ano": 1939, "genero": "Fantasia"},
     {"id": 5, "titulo": "Psycho", "ano": 1960, "genero": "Terror"},
+    {"id": 6, "titulo": "Gran Torino", "ano": 2008, "genero": "Thriller"},
     {"id": 25, "titulo": "Rear Window", "ano": 1954, "genero": "Suspense"}
 ]
