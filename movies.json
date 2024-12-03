@@ -1,0 +1,8 @@
+[
+    {"id": 1, "titulo": "Casablanca", "ano": 1942, "genero": "Romance"},
+    {"id": 2, "titulo": "Gone with the Wind", "ano": 1939, "genero": "Drama"},
+    {"id": 3, "titulo": "Citizen Kane", "ano": 1941, "genero": "Drama"},
+    {"id": 4, "titulo": "The Wizard of Oz", "ano": 1939, "genero": "Fantasia"},
+    {"id": 5, "titulo": "Psycho", "ano": 1960, "genero": "Terror"},
+    {"id": 25, "titulo": "Rear Window", "ano": 1954, "genero": "Suspense"}
+]

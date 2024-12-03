@@ -1,0 +1,8 @@
+[
+    {"ator_id": 1, "filme_id": 1, "papel": "Ilsa Lund"},
+    {"ator_id": 2, "filme_id": 2, "papel": "Rhett Butler"},
+    {"ator_id": 3, "filme_id": 3, "papel": "Susan Alexander"},
+    {"ator_id": 4, "filme_id": 4, "papel": "Professor Marvel"},
+    {"ator_id": 5, "filme_id": 5, "papel": "Norman Bates"},
+    {"ator_id": 100, "filme_id": 25, "papel": "Lisa Fremont"}
+]
