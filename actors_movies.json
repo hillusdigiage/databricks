@@ -1,10 +1,10 @@
 [
-    {"ator_id": 1, "filme_id": 1, "papel": "Ilsa Lund"},
-    {"ator_id": 2, "filme_id": 2, "papel": "Rhett Butler"},
-    {"ator_id": 3, "filme_id": 3, "papel": "Susan Alexander"},
-    {"ator_id": 4, "filme_id": 4, "papel": "Professor Marvel"},
-    {"ator_id": 5, "filme_id": 5, "papel": "Norman Bates"},
-    {"ator_id": 6, "filme_id": 6, "papel": "Walt Kowalski"},
-    {"ator_id": 7, "filme_id": 7, "papel": "Maleficent"},
-    {"ator_id": 100, "filme_id": 25, "papel": "Lisa Fremont"}
+    {"actor_id": 1, "movie_id": 1, "role": "Ilsa Lund"},
+    {"actor_id": 2, "movie_id": 2, "role": "Rhett Butler"},
+    {"actor_id": 3, "movie_id": 3, "role": "Susan Alexander"},
+    {"actor_id": 4, "movie_id": 4, "role": "Professor Marvel"},
+    {"actor_id": 5, "movie_id": 5, "role": "Norman Bates"},
+    {"actor_id": 6, "movie_id": 6, "role": "Walt Kowalski"},
+    {"actor_id": 7, "movie_id": 7, "role": "Maleficent"},
+    {"actor_id": 100, "movie_id": 25, "role": "Lisa Fremont"}
 ]
