@@ -1,10 +1,10 @@
 [
-    {"id": 1, "titulo": "Casablanca", "ano": 1942, "genero": "Romance"},
-    {"id": 2, "titulo": "Gone with the Wind", "ano": 1939, "genero": "Drama"},
-    {"id": 3, "titulo": "Citizen Kane", "ano": 1941, "genero": "Drama"},
-    {"id": 4, "titulo": "The Wizard of Oz", "ano": 1939, "genero": "Fantasia"},
-    {"id": 5, "titulo": "Psycho", "ano": 1960, "genero": "Terror"},
-    {"id": 6, "titulo": "Gran Torino", "ano": 2008, "genero": "Thriller"},
-    {"id": 7, "titulo": "Malevola", "ano": 2014, "genero": "Fantasia"},
-    {"id": 25, "titulo": "Rear Window", "ano": 1954, "genero": "Suspense"}
+    {"id": 1, "title": "Casablanca", "year": 1942, "genre": "romance"},
+    {"id": 2, "title": "Gone with the Wind", "year": 1939, "genre": "drama"},
+    {"id": 3, "title": "Citizen Kane", "year": 1941, "genre": "drama"},
+    {"id": 4, "title": "The Wizard of Oz", "year": 1939, "genre": "fantasy"},
+    {"id": 5, "title": "Psycho", "year": 1960, "genre": "horror"},
+    {"id": 6, "title": "Gran Torino", "year": 2008, "genre": "thriller"},
+    {"id": 7, "title": "Malevola", "year": 2014, "genre": "fantasy"},
+    {"id": 25, "title": "Rear Window", "year": 1954, "genre": "suspense"}
 ]

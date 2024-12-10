@@ -1,10 +1,10 @@
 [
-    {"id": 1, "nome": "Audrey Hepburn", "nascimento": "1929-05-04", "nacionalidade": "Britânico"},
-    {"id": 2, "nome": "Marlon Brando", "nascimento": "1924-04-03", "nacionalidade": "Americano"},
-    {"id": 3, "nome": "Marilyn Monroe", "nascimento": "1926-06-01", "nacionalidade": "Americano"},
-    {"id": 4, "nome": "James Stewart", "nascimento": "1908-05-20", "nacionalidade": "Americano"},
-    {"id": 5, "nome": "Cary Grant", "nascimento": "1904-01-18", "nacionalidade": "Britânico"},
-    {"id": 6, "nome": "Clinton Eastwood Jr", "nascimento": "1930-05-31", "nacionalidade": "Americano"},
-    {"id": 7, "nome": "Angelina Jolie", "nascimento": "1975-06-04", "nacionalidade": "Americano"},
-    {"id": 100, "nome": "Greta Garbo", "nascimento": "1905-09-18", "nacionalidade": "Sueco"}
+    {"id": 1, "name": "Audrey Hepburn", "birth_date": "1929-05-04", "nationality": "Britânico", "gender": "male"},
+    {"id": 2, "name": "Marlon Brando", "birth_date": "1924-04-03", "nationality": "Americano", "gender": "male"},
+    {"id": 3, "name": "Marilyn Monroe", "birth_date": "1926-06-01", "nationality": "Americano", "gender": "female"},
+    {"id": 4, "name": "James Stewart", "birth_date": "1908-05-20", "nationality": "Americano", "gender": "male"},
+    {"id": 5, "name": "Cary Grant", "birth_date": "1904-01-18", "nationality": "Britânico", "gender": "male"},
+    {"id": 6, "name": "Clinton Eastwood Jr", "birth_date": "1930-05-31", "nationality": "Americano", "gender": "male"},
+    {"id": 7, "name": "Angelina Jolie", "birth_date": "1975-06-04", "nationality": "Americano", "gender": "female"},
+    {"id": 100, "name": "Greta Garbo", "birth_date": "1905-09-18", "nationality": "Sueco", "gender": "female"}
 ]
